@@ -31,6 +31,12 @@
   --sa11y-close-btn-svg: url("data:image/svg+xml,%3Csvg width='20px' height='20px' aria-hidden='true' focusable='false' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 352 512'%3E%3Cpath fill='%23000000' d='M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z'%3E%3C/path%3E%3C/svg%3E");
 }
 
+#sa11y-container #sa11y-toggle 
+{
+	--sa11y-button-position_bottom: 15px;
+}
+
+
 /* SVG icons by FontAwesome 5: https://fontawesome.com/license/free */
 html,
 html[data-sa11y-theme="light"] {
@@ -206,7 +212,7 @@ html[data-sa11y-theme="dark"] {
   background-size: 150% 150% !important;
   border: 0 !important;
   border-radius: 50px !important;
-  bottom: 15px !important;
+  bottom: var(--sa11y-button-postion);
   color: white !important;
   cursor: pointer !important;
   margin: 0 !important;
