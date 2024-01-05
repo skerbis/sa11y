@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 skerbis/sa11y is built on the following main stack:
+
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -11,11 +12,13 @@ skerbis/sa11y is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 skerbis/sa11y is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -25,14 +28,15 @@ skerbis/sa11y is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [skerbis/sa11y](https://github.com/skerbis/sa11y)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/10/23 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -137,9 +141,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (16)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -147,6 +151,7 @@ Full tech stack [here](/techstack.md)
 |[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.19.4|08/05/22|Adam Chaboryk |MIT|N/A|
 |[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v13.3.0|08/05/22|Adam Chaboryk |MIT|N/A|
 |[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001418|10/19/22|Adam Chaboryk |CC-BY-4.0|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.1.13|08/05/22|Adam Chaboryk |MIT|N/A|
 |[eslint-config-airbnb](https://www.npmjs.com/eslint-config-airbnb)|v18.2.1|08/05/22|Adam Chaboryk |MIT|N/A|
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v14.2.1|08/05/22|Adam Chaboryk |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.26.0|08/05/22|Adam Chaboryk |MIT|N/A|
@@ -163,4 +168,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
